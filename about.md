@@ -50,6 +50,6 @@ I want to study more about Machine Learning, Software Engineering, and databases
 I want to learn technology
 
 1. Machine Learning
-2. Cpp
+2. C++
 3. Some math and statistics
 4. JavaScript and Typescript
