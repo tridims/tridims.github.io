@@ -20,7 +20,7 @@ text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : dimastrim
+title   : dimas tri mustakim
 description: > # this means to ignore newlines until "Language & timezone"
   The website where i post some articles that i wrote.
 
@@ -35,7 +35,7 @@ timezone: Asia/Hong_Kong # see https://en.wikipedia.org/wiki/List_of_tz_database
 ##############################
 author:
   type      : "person" # "person" (default), "organization"
-  name      : Your Name
+  name      : Dimas Tri Mustakim
   url       : tridims.github.io
   avatar    : ./assets/personal_image/profile.png # path or url of avatar image (square)
   bio       : I am an university student who love to study about technology, espicially about computer science.
