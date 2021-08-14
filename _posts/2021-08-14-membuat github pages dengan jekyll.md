@@ -1,4 +1,5 @@
 ---
+layout: article
 title: Membuat github Pages dengan Jekyll
 tags: github pages, jekyll, first websites
 lang: id
