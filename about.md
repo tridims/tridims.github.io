@@ -26,10 +26,10 @@ titles:
 key: page-about
 ---
 
-# About Me
-
-```javascript
-(() => console.log('Hello, World!'))();
+```python
+if __name__ == "__main__":
+  print("Hello World !!")
+  print("Hello everyone !!")
 ```
 
 Hello everyone ! My name is Dimas Tri. I am currently an university student. I love to study about technology especially in the Computer Science category. Nice to meet u all !
