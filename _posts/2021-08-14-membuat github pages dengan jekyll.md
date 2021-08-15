@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Creating Github Pages with Jekyll
-tags: github pages, jekyll, first websites
+tags: github-pages, jekyll, first-websites
 lang: en
 ---
 
@@ -45,13 +45,11 @@ The next step is to create the repository where the gihub pages will reside. We 
 
 You must set the visibility of the repository to public if you use github free account, otherwise if it pro account you can put it in the private.
 
-And then the next step is to push the jekyll project to this repository and then configure the 
-
-
+And then the next step is to push the jekyll project to this repository and the repository to be github pages by choosing which branch you want to display.
 
 ### **Creating jekyl project**
 
-The next step is to create the jekyll project. We can do this from scratsh by doing this step. We can do this by first installing jekyll using gem by running this command.
+The next step is to create the jekyll project. We can do this from scratch by first initializing the project using this command.
 
 ```zsh
   jekyll new my-awesome-site
@@ -62,7 +60,7 @@ The next step is to create the jekyll project. We can do this from scratsh by do
 
 You can then choose your theme and start configuring your project. The way to do it you can find it in [here](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll)
 
-That is one way to create the project from scratch, you can learn more from doing that. But if you dont want to, you can just fork or downloading other project.
+That is one way to create the project from scratch, you can learn more from doing that. But if you dont want to, you can just fork or downloading other project/theme/template and modify it.
 
 ### **Creating Jekyll project using pre-made theme/template**
 
