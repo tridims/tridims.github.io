@@ -21,9 +21,9 @@ Jekyll is the kind of static website generator that Github can work with automat
 
 Jekyll is written on ruby, and we must install ruby and bundler to use this library.
 
-## Step that i took to create my Github Pages
-
 ---
+
+## Step that i took to create my Github Pages
 
 ### **Install Ruby, bundler, and Jekyll**
 
