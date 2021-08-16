@@ -5,7 +5,7 @@ tags: Q-Learning, Reinforcement-Learning, Path-Finding, OpenAI-GYM, Taxi-V3
 lang: en
 ---
 
-<script id="asciicast-426538" src="https://asciinema.org/a/426538.js" async></script>
+[![asciicast](https://asciinema.org/a/426538.svg)](https://asciinema.org/a/426538)
 
 ## **Preface**
 
