@@ -5,9 +5,9 @@ tags: Q-Learning, Reinforcement-Learning, Path-Finding, OpenAI-GYM, Taxi-V3
 lang: en
 ---
 
-## **Preface**
+<script id="asciicast-426538" src="https://asciinema.org/a/426538.js" async></script>
 
-***
+## **Preface**
 
 ### **What I learn in this project**
 
@@ -375,10 +375,9 @@ np.save("ModelAgent.npy", q_table)
 q_table = np.load("ModelAgent.npy")
 ```
 
-Testing The agent.
-We can test the agent in the notebook using this code.
+### **Testing The agent**
 
-We can also evaluate the agent performance using this code
+We can evaluate the agent performance using this code
 
 ```python
 results = []
