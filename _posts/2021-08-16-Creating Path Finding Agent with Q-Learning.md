@@ -505,6 +505,7 @@ q_table_dataframe
 ```
 
 ## END
+
 You can find my notebooks for this project in this Kaggle [link](https://www.kaggle.com/dimastri/belajar-q-learning)
 
 <!--more-->

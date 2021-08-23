@@ -38,7 +38,7 @@ author:
   name      : Dimas Tri Mustakim
   url       : tridims.github.io
   avatar    : ./assets/personal_image/profile.png # path or url of avatar image (square)
-  bio       : I am an university student who love to study about technology, espicially about computer science.
+  bio       : I am a passionate computer science student. I am interested in Machine Learning and Software Development.
   email     : tri.dimas31122001@gmail.com
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
@@ -208,11 +208,11 @@ defaults:
     values:
       layout: article
       sharing: true
-      license: true
+      license: false
       aside:
         toc: true
       show_edit_on_github: true
-      show_subscribe: true
+      show_subscribe: false
       pageview: true
 
 
